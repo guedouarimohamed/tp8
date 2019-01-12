@@ -112,7 +112,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1370" />
@@ -167,7 +167,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.matrix [generateMatrixAPI]">
+  <component name="RunManager" selected="Gradle.V 1.0 [build]">
+    <configuration name="V 1.0 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="matrix [generateMatrixAPI]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -225,25 +244,6 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="matrix [sonarqube]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="sonarqube" />
-          </list>
-        </option>
-        <option name="vmOptions" value="" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
     <configuration name="matrix [uploadArchives]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -265,11 +265,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.V 1.0 [build]" />
         <item itemvalue="Gradle.matrix [uploadArchives]" />
         <item itemvalue="Gradle.matrix [generateMatrixAPI]" />
         <item itemvalue="Gradle.matrix [jar]" />
         <item itemvalue="Gradle.matrix [javadoc]" />
-        <item itemvalue="Gradle.matrix [sonarqube]" />
       </list>
     </recent_temporary>
   </component>
