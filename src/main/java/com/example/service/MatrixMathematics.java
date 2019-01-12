@@ -8,7 +8,7 @@ public class MatrixMathematics {
 	/**
 	 * This class a matrix utility class and cannot be instantiated.
 	 */
-	private MatrixMathematics(){}
+	public MatrixMathematics(){}
 	
 	
 	/**
